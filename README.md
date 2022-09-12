@@ -1,2 +1,2 @@
-# quantum-information-computing
-Quantum Information and Computing course at University of Padua 
+# Quantum Information and Computing projects
+Quantum Information and Computing projects for course at University of Padua. Titles: CHSH inequality violation, Quantum State Tomography. 
