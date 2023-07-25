@@ -1,8 +1,9 @@
 # Quantum Information and Computing projects
-## Quantum Information and Computing projects for course at University of Padua.
-## Titles: CHSH inequality violation, Quantum State Tomography. 
+## Quantum Information and Computing projects for course at University of Padua
+## Titles: CHSH inequality violation, Quantum State Tomography
 
 **Project Summary**: In this experiment we want to violate the CHSH inequality in order to provide a proof of Bell’s theorem.
+
 **Project Summary**: In this experiment we want to infer the density matrix of a quantum state by a series of measurement
 performed on pairs of qubits.
 
